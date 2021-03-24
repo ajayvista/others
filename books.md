@@ -68,6 +68,7 @@ Bold - By P. Diamandis and S. Kotler
 
 ## R
 - Relentless - By Tim Grover
+- Rich Dad Poor Dad - Robert T. Kiyosaki - READ - Aug-2017
 
 ## S
 - Secrets for Happiness & Success - By Og Mandino
