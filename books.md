@@ -1,5 +1,5 @@
-100 Ways to Stay Motivated - By Grant Cardone
-21 Lessons for the 21st Century - Yuval Noah Harari [in-progress]
+- 100 Ways to Stay Motivated - By Grant Cardone
+- 21 Lessons for the 21st Century - Yuval Noah Harari [in-progress]
 
 ## A
 - Antifragile - By Nassim Nicholas Taleb
