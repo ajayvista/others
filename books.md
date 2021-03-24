@@ -102,6 +102,7 @@ Bold - By P. Diamandis and S. Kotler
 -- https://www.amazon.in/Power-Myth-Joseph-Campbell/dp/0385418868/ref=sr_1_1?dchild=1&keywords=The+Power+of+Myth+-+By+Joseph+Campbell&qid=1616579768&sr=8-1
 
 - The Power of Positive Thinking - By Norman Vincent Peale
+- The Psychology of money - By Morgan Housel - READ - Mar'2021
 - The Six Pillars of Self-Esteem - By Nathaniel Branden
 - The Success Principles - By Jack Canfield
 - The Subtle Art of Not Giving a F*ck - Mark Manson - READ - July-2020
@@ -122,4 +123,4 @@ Bold - By P. Diamandis and S. Kotler
 - Willpower - By Roy F. Baumeister and John Tierney
 
 ## Z
-- Zero to One - By Peter Thiel - Finished - Aug'2016
+- Zero to One - By Peter Thiel - READ - Aug'2016
