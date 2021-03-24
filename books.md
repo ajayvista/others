@@ -1,4 +1,5 @@
 100 Ways to Stay Motivated - By Grant Cardone
+21 Lessons for the 21st Century - Yuval Noah Harari [in-progress]
 
 ## A
 - Antifragile - By Nassim Nicholas Taleb
@@ -102,6 +103,7 @@ Bold - By P. Diamandis and S. Kotler
 - The Power of Positive Thinking - By Norman Vincent Peale
 - The Six Pillars of Self-Esteem - By Nathaniel Branden
 - The Success Principles - By Jack Canfield
+- The Subtle Art of Not Giving a F*ck - Mark Manson - READ - July-2020
 - The Talent Code - By Daniel Coyle
 - The War of Art - By Steven Pressfield
 - The Worry Cure - By Robert L. Leahy
