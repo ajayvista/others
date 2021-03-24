@@ -34,9 +34,9 @@ Bold - By P. Diamandis and S. Kotler
 ## H
 - Happy for No Reason - By Marci Shimoff
 - How Good People Make Tough Choices - By Rushworth M. Kidder
-- How to Cultivate an Unshakable Character - By Jim Rohn
-How to Practice - By The Dalai Lama
-How to Stay Motivated - By Zig Ziglar
+- How to Cultivate an Unshakable Character - By Jim Rohn https://www.youtube.com/watch?v=y00HGt095Bg&ab_channel=GrowRichwithPhilip%26Denise
+- How to Practice - By The Dalai Lama
+- How to Stay Motivated - By Zig Ziglar
 
 ## I
 - If You're Not First You're Last - By Grant Cardone
