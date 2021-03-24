@@ -80,6 +80,7 @@ Bold - By P. Diamandis and S. Kotler
 - The 4-Hour Workweek - By Tim Ferriss
 - The 7 Habits of Highly Effective People - By Stephen Covey
 - The 8th Habit - By Stephen R. Covey
+- The Art of Communicating - By Thich Nhat Hanh
 - The Art of Happiness - By The Dalai Lama
 - The Art of Possibility - By Rossamund Stone Zander
 - The Brain That Changes Itself - By Norman Doidge
