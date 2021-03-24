@@ -44,7 +44,7 @@ How to Stay Motivated - By Zig Ziglar
 
 ## L
 - Leaders Eat Last - By Simon Sinek
-- Learned Optimism - By Martin E. P. Seligman
+- Learned Optimism - By Martin E. P. Seligman https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?dchild=1&keywords=Learned+Optimism&qid=1616576560&sr=8-1
 - Life’s Golden Ticket - By Brendon Burchard
 - Linchpin - By Seth Godin
 - Living a Life that Matters - By Harold S. Kushner
@@ -92,9 +92,12 @@ How to Stay Motivated - By Zig Ziglar
 - The New Psycho-cybernetics - By Maxwell Maltz and Dan Kennedy
 - The Obstacle is the Way - By Ryan Holiday
 - The Passion Test - By Janet Bray Attwood and Chris Attwood
-- The Power of Ambition - By Jim Rohn
-- The Power of Intention - By Dr. Wayne Dyer
-- The Power of Myth - By Joseph Campbell
+- The Power of Ambition - By Jim Rohn - https://www.youtube.com/watch?v=-o5544Mnc5k&ab_channel=MichaelHaney
+- The Power of Intention - By Dr. Wayne Dyer - https://www.youtube.com/watch?v=c36Uo0A6ZAc&ab_channel=ShemarooGoodHealth24%2F7
+- The Power of Myth - By Joseph Campbell - 
+-- https://www.youtube.com/watch?v=BLoOYuwMQC8&list=PLiJELyO9hcAZ_JVEmAI3sByatFwdSy6F7&ab_channel=MichelleBarajas-Espinoza
+-- https://www.amazon.in/Power-Myth-Joseph-Campbell/dp/0385418868/ref=sr_1_1?dchild=1&keywords=The+Power+of+Myth+-+By+Joseph+Campbell&qid=1616579768&sr=8-1
+
 - The Power of Positive Thinking - By Norman Vincent Peale
 - The Six Pillars of Self-Esteem - By Nathaniel Branden
 - The Success Principles - By Jack Canfield
