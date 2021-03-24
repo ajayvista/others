@@ -28,8 +28,8 @@ Bold - By P. Diamandis and S. Kotler
 - Flow - By Mihaly Csikszentmihalyi
 
 ## G
-- Grit - By Angela Duckworth
-- Group - By Paul Solotaroff
+- Grit - By Angela Duckworth - https://www.amazon.in/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?dchild=1&keywords=Grit+-+By+Angela+Duckworth&qid=1616581544&sr=8-1
+- Group - By Paul Solotaroff 
 
 ## H
 - Happy for No Reason - By Marci Shimoff
@@ -90,7 +90,7 @@ How to Stay Motivated - By Zig Ziglar
 - The Four Agreements - By Don Biohel Ruiz
 - The Moral Animal - By Robert Wright
 - The New Psycho-cybernetics - By Maxwell Maltz and Dan Kennedy
-- The Obstacle is the Way - By Ryan Holiday
+- The Obstacle is the Way - By Ryan Holiday - https://www.amazon.in/Obstacle-Way-Ancient-Adversity-Advantage/dp/1781251487
 - The Passion Test - By Janet Bray Attwood and Chris Attwood
 - The Power of Ambition - By Jim Rohn - https://www.youtube.com/watch?v=-o5544Mnc5k&ab_channel=MichaelHaney
 - The Power of Intention - By Dr. Wayne Dyer - https://www.youtube.com/watch?v=c36Uo0A6ZAc&ab_channel=ShemarooGoodHealth24%2F7
