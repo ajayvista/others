@@ -93,6 +93,7 @@ Bold - By P. Diamandis and S. Kotler
 - The E Myth Revisited - By Michael E. Gerber
 - The Four Agreements - By Don Biohel Ruiz
 - The Moral Animal - By Robert Wright
+- The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime - By MJ DeMarco  
 - The New Psycho-cybernetics - By Maxwell Maltz and Dan Kennedy
 - The Obstacle is the Way - By Ryan Holiday - https://www.amazon.in/Obstacle-Way-Ancient-Adversity-Advantage/dp/1781251487
 - The Passion Test - By Janet Bray Attwood and Chris Attwood
