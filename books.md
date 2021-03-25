@@ -79,6 +79,7 @@ Bold - By P. Diamandis and S. Kotler
 - Switch - By Chip Heath and Dan Heath
 
 ## T
+- The Alchemist by Paulo Coelho
 - The 4-Hour Workweek - By Tim Ferriss
 - The 7 Habits of Highly Effective People - By Stephen Covey
 - The 8th Habit - By Stephen R. Covey
@@ -100,7 +101,7 @@ Bold - By P. Diamandis and S. Kotler
 - The Power of Myth - By Joseph Campbell - 
 -- https://www.youtube.com/watch?v=BLoOYuwMQC8&list=PLiJELyO9hcAZ_JVEmAI3sByatFwdSy6F7&ab_channel=MichelleBarajas-Espinoza
 -- https://www.amazon.in/Power-Myth-Joseph-Campbell/dp/0385418868/ref=sr_1_1?dchild=1&keywords=The+Power+of+Myth+-+By+Joseph+Campbell&qid=1616579768&sr=8-1
-
+- The Power of Now by Eckhart Tolle
 - The Power of Positive Thinking - By Norman Vincent Peale
 - The Psychology of money - By Morgan Housel - READ - Mar'2021
 - The Six Pillars of Self-Esteem - By Nathaniel Branden
