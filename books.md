@@ -118,6 +118,7 @@ Bold - By P. Diamandis and S. Kotler
 ## U
 - Unlimited Power - By Tony Robbins
 - Unshakeable - By Tony Robbins
+- UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship - By MJ DeMarco
 
 ## W
 - What does it Mean to be Human? - By Frederick Franck, Janis Roze, and Richard Connolly
